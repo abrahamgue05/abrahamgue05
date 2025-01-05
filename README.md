@@ -11,6 +11,5 @@ https://linktr.ee/abrahamgue05
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abrahamgue05&theme=neon&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamgue05&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abrahamgue05&theme=city_lights&hide_border=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
