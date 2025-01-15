@@ -9,7 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abrahamgue05&theme=midnight-purple" />
 </a>
 <a href="https://github.com/abrahamgue05/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahamgue05&layout=compact&langs_count=8&card_width=300&theme=midnight-purple" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahamgue05&layout=compact&langs_count=8&card_width=280&theme=midnight-purple" />
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
