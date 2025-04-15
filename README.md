@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Abraham
-👨🏽‍💻 Student sharing my knowladge and my journey to learn new tech things<br><br>🏫 Studing Computer System Engineering and Artificial Intelligence Engineering<br><br>💾 Trying to keep a record of what I do and learn here<br><br>🏁 My current goal is to learn C language
+👨🏽‍💻 Student sharing my knowladge and my journey to learn new tech things<br><br>🏫 Studing Computer System Engineering and Artificial Intelligence Engineering<br><br>💾 Trying to keep a record of what I do and learn here<br><br>🏁 My current goal is to make C projects.
 
 
 # 💻 Tech Stack:
